@@ -13,6 +13,15 @@
 
 ---
 
+## Training Notebook (Google Colab)
+Notebook training tersedia di:
+- notebooks/PENGOLAHAN_CITRA_DIGITAL_Cifar10_TRAINING_1304221046.ipynb
+
+##Link Google Colab:
+- https://colab.research.google.com/drive/1SPXgiNV5Jj27EBpUqp5dVS9f0envnvlR?usp=sharing
+
+---
+
 ## 1. Deskripsi Singkat Proyek
 Proyek ini mengimplementasikan pipeline pengolahan citra dan klasifikasi untuk memenuhi tugas akhir mata kuliah **Pengolahan Citra Digital**.  
 Tahapan yang digunakan:
